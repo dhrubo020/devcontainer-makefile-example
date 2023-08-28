@@ -1,0 +1,14 @@
+{
+	"name": "Ubuntu Dev Container",
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"terminal.integrated.profiles.linux": {
+			"bash": {
+				"path": "bash",
+				"icon": "terminal-bash"
+			}
+		}
+	},
+	"extensions": []
+	
+}
